@@ -1,3 +1,8 @@
+@@media contador {max-width:500px
+
+}
+
+
 .page-top{
 	background: gold;
 }
@@ -18,7 +23,7 @@ header{
 	display: flex;
 	flex-direction: column;
     align-items: center;
-    
+
 }
 
 .section1 {
@@ -35,7 +40,7 @@ header{
     align-items: center;
     background: white;
     border-radius: 7%;
- text-align: center;   
+ text-align: center;
 }
 .tamgr{
 	font-size: 4.25rem;
@@ -44,4 +49,7 @@ header{
 .tamgr2{
 	    font-size: 2.75rem;
 }
-
+.contador{
+	height: 100vw;
+	width: 100vw;
+}
